@@ -45,7 +45,7 @@ the many stuff in the game like pickup paper, MonsterAI, Ambiance and so much mo
 ## 📂Files description
 
 ```
-├── Project-A-Winners-Resolve         # Contain everything needed for Project-A-Winners-Resolve to work.
+├── Project-A-Winners-Resolve         # Contain everything needed for A Winner's Effort to work.
    ├── Assets                         # Contains every assets that have been worked with unity to create the game like the scripts and the art.
       ├── Models                      # Contains every models that is used.
       ├── Animations                  # Contains every animation clip and animator controller that played when the game start.
@@ -59,7 +59,7 @@ the many stuff in the game like pickup paper, MonsterAI, Ambiance and so much mo
       ├── Manifest.json               # Contains the lists of all the packages that your project depends on and their versions.
       ├── Packages-lock.json          # Contains packages that ensuring your project always uses the same versions of all dependencies and their sub-dependencies.
    ├── Project Settings               # Contains the configuration of your game to control the quality settings, icon, or even the cursor settings
-├── README.md                         # The description of Project-A-Winners-Resolve file from About til the developers and the contribution for this game.
+├── README.md                         # The description of A Winner's Effort file from About til the developers and the contribution for this game.
 ```
 
 <br>
