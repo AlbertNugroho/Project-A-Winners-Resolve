@@ -34,7 +34,7 @@ the many stuff in the game like pickup paper, MonsterAI, Ambiance and so much mo
 
 ## 🕹️Play Game
 
-<a href="https://drive.google.com/file/d/1gbHesZAJ3umIsPq6DP6EqXT1dOZrBFX2/view?usp=drive_link">Play Now</a>
+<a href="https://drive.google.com/file/d/1L3gHr2uB00c10AchiqnHKrbr81I4Eytd/view?usp=drive_link">Play Now</a>
 <br>
 
 ## 👤Developer & Contributions
