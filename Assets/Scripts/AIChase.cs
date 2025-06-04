@@ -32,6 +32,7 @@ public class AIChase : MonoBehaviour
     private NavMeshAgent agent;
     public AudioSource bonebreak;
     private AudioSource audioSource;
+    public AudioSource js;
     private float currentAlpha = 0f;
     public int lettersPicked;
     public LayerMask obstacleMask; // Assign in Inspector (e.g. Buildings, Walls)
@@ -284,7 +285,8 @@ public class AIChase : MonoBehaviour
 
         if (scareSound != null)
         {
-            audioSource.PlayOneShot(scareSound);
+            js.PlayOneShot(scareSound);
+            playerMovementScript.enabled = false;
             bonebreak.PlayOneShot(boneBreaksfx);
         }
 
